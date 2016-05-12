@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-										<string>https://10.129.161.123/RecNews-1.0.0.15.ipa</string>
+										<string>http://installer.sogou-inc.com/mirror_installer/senews_ios/1.0.0/15/0000/RecNews-1.0.0.15.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
